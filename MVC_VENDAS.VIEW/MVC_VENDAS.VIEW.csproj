@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{638D0C96-B392-473B-91D2-0CB3AB2162FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MVC_VENDAS.VIEW</RootNamespace>
+    <AssemblyName>MVC_VENDAS.VIEW</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>MVC_VENDAS.VIEW.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmClientesWCF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClientesWCF.Designer.cs">
+      <DependentUpon>frmClientesWCF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFuncionariosWCF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFuncionariosWCF.Designer.cs">
+      <DependentUpon>frmFuncionariosWCF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInitial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInitial.Designer.cs">
+      <DependentUpon>frmInitial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProdutosWCF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProdutosWCF.Designer.cs">
+      <DependentUpon>frmProdutosWCF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelatorios.Designer.cs">
+      <DependentUpon>frmRelatorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVendas.Designer.cs">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\CClienteWCF\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\CFuncionarioWCF\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\CProdutoWCF\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmClientesWCF.resx">
+      <DependentUpon>frmClientesWCF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFuncionariosWCF.resx">
+      <DependentUpon>frmFuncionariosWCF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInitial.resx">
+      <DependentUpon>frmInitial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProdutosWCF.resx">
+      <DependentUpon>frmProdutosWCF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelatorios.resx">
+      <DependentUpon>frmRelatorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVendas.resx">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\DataSources\MVC_VENDAS.MODEL.Produto.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\CClienteWCF\CCliente.wsdl" />
+    <None Include="Service References\CClienteWCF\CCliente.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\CClienteWCF\CCliente1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\CClienteWCF\CCliente2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\CClienteWCF\MVC_VENDAS.VIEW.CClienteWCF.Cliente.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\CFuncionarioWCF\CFuncionario.wsdl" />
+    <None Include="Service References\CFuncionarioWCF\CFuncionario.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\CFuncionarioWCF\CFuncionario1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\CFuncionarioWCF\CFuncionario2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\CFuncionarioWCF\MVC_VENDAS.VIEW.CFuncionarioWCF.Funcionario.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\CProdutoWCF\CProduto.wsdl" />
+    <None Include="Service References\CProdutoWCF\CProduto.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\CProdutoWCF\CProduto1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\CProdutoWCF\CProduto2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\CProdutoWCF\MVC_VENDAS.VIEW.CProdutoWCF.Produto.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MVC_VENDAS.CONTROLLER\MVC_VENDAS.CONTROLLER.csproj">
+      <Project>{8c106cee-aa2b-437a-ab82-bf39921ace62}</Project>
+      <Name>MVC_VENDAS.CONTROLLER</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MVC_VENDAS.MODEL\MVC_VENDAS.MODEL.csproj">
+      <Project>{0693813e-5d55-4c77-bd10-742d46a5634d}</Project>
+      <Name>MVC_VENDAS.MODEL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\CClienteWCF\" />
+    <WCFMetadataStorage Include="Service References\CFuncionarioWCF\" />
+    <WCFMetadataStorage Include="Service References\CProdutoWCF\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\CProdutoWCF\CProduto.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\CProdutoWCF\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\CProdutoWCF\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\CProdutoWCF\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\CClienteWCF\CCliente.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\CClienteWCF\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\CClienteWCF\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\CClienteWCF\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\CFuncionarioWCF\CFuncionario.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\CFuncionarioWCF\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\CFuncionarioWCF\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\CFuncionarioWCF\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

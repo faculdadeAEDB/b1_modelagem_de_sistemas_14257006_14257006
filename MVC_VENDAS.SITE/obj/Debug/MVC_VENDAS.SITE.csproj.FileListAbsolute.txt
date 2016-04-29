@@ -1,0 +1,44 @@
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\roslyn\csc.exe
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\roslyn\vbc.exe
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\roslyn\VBCSCompiler.exe
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\MVC_VENDAS.SITE.dll.config
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\MVC_VENDAS.SITE.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\MVC_VENDAS.SITE.pdb
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\MVC_VENDAS.MODEL.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\MVC_VENDAS.MODEL.pdb
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\obj\Debug\MVC_VENDAS.SITE.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\obj\Debug\MVC_VENDAS.SITE.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.SITE\obj\Debug\MVC_VENDAS.SITE.pdb
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\roslyn\csc.exe
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\roslyn\vbc.exe
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\roslyn\VBCSCompiler.exe
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\MVC_VENDAS.SITE.dll.config
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\MVC_VENDAS.SITE.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\MVC_VENDAS.SITE.pdb
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\MVC_VENDAS.MODEL.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\MVC_VENDAS.MODEL.pdb
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\obj\Debug\MVC_VENDAS.SITE.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\obj\Debug\MVC_VENDAS.SITE.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.SITE\obj\Debug\MVC_VENDAS.SITE.pdb

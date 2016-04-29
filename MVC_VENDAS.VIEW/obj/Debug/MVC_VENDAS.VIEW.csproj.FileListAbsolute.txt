@@ -1,0 +1,38 @@
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.VIEW.exe.config
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.VIEW.exe
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.VIEW.pdb
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.CONTROLLER.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.MODEL.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.CONTROLLER.pdb
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.MODEL.pdb
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmClientes.resources
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmProduto.resources
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.Properties.Resources.resources
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.csproj.GenerateResource.Cache
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.exe
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.pdb
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmInitial.resources
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmFuncionarios.resources
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmVendas.resources
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmProdutosWCF.resources
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmClientesWCF.resources
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmFuncionariosWCF.resources
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.VIEW.exe.config
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.exe
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.pdb
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.VIEW.exe
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.VIEW.pdb
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.CONTROLLER.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.MODEL.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.CONTROLLER.pdb
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\bin\Debug\MVC_VENDAS.MODEL.pdb
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmClientesWCF.resources
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmFuncionariosWCF.resources
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmInitial.resources
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmProdutosWCF.resources
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmRelatorios.resources
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.frmVendas.resources
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.Properties.Resources.resources
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.VIEW\obj\Debug\MVC_VENDAS.VIEW.csproj.GenerateResource.Cache

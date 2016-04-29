@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7f833e1c-b04c-4254-a042-18d29e6b7697" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:62720/CProduto.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CProduto.xsd" MetadataType="Schema" ID="65ac15f2-ee6a-4699-9110-51b7fb177dbc" SourceId="1" SourceUrl="http://localhost:62720/CProduto.svc?xsd=xsd1" />
+    <MetadataFile FileName="CProduto1.xsd" MetadataType="Schema" ID="26fa44ad-37f3-46f4-9515-e7f003a7eae1" SourceId="1" SourceUrl="http://localhost:62720/CProduto.svc?xsd=xsd2" />
+    <MetadataFile FileName="CProduto.wsdl" MetadataType="Wsdl" ID="4ce4d533-9201-4df5-8a44-c1bb674ef5b0" SourceId="1" SourceUrl="http://localhost:62720/CProduto.svc?wsdl" />
+    <MetadataFile FileName="CProduto2.xsd" MetadataType="Schema" ID="e3fce83a-cf72-4fa0-a4ca-d4d361696679" SourceId="1" SourceUrl="http://localhost:62720/CProduto.svc?xsd=xsd0" />
+    <MetadataFile FileName="CProduto.disco" MetadataType="Disco" ID="75d49870-2881-4784-accc-f7b3521d920a" SourceId="1" SourceUrl="http://localhost:62720/CProduto.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,14 @@
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.CONTROLLER\bin\Debug\MVC_VENDAS.CONTROLLER.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.CONTROLLER\bin\Debug\MVC_VENDAS.CONTROLLER.pdb
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.CONTROLLER\bin\Debug\MVC_VENDAS.MODEL.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.CONTROLLER\bin\Debug\MVC_VENDAS.MODEL.pdb
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.CONTROLLER\obj\Debug\MVC_VENDAS.CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.CONTROLLER\obj\Debug\MVC_VENDAS.CONTROLLER.dll
+C:\Users\Roberto\Documents\Visual Studio 2015\Projects\14257042_14257006\MVC_VENDAS\MVC_VENDAS\MVC_VENDAS.CONTROLLER\obj\Debug\MVC_VENDAS.CONTROLLER.pdb
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.CONTROLLER\bin\Debug\MVC_VENDAS.CONTROLLER.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.CONTROLLER\bin\Debug\MVC_VENDAS.CONTROLLER.pdb
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.CONTROLLER\bin\Debug\MVC_VENDAS.MODEL.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.CONTROLLER\bin\Debug\MVC_VENDAS.MODEL.pdb
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.CONTROLLER\obj\Debug\MVC_VENDAS.CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.CONTROLLER\obj\Debug\MVC_VENDAS.CONTROLLER.dll
+C:\Users\Roberto\Documents\oneMoreTime\mvc_vendas\MVC_VENDAS.CONTROLLER\obj\Debug\MVC_VENDAS.CONTROLLER.pdb

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="CCliente" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:62720/CCliente.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:62720/CCliente.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:62720/CCliente.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/MVC_VENDAS.MODEL" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ICCliente_ListaClientes_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListaClientes" />
+  </wsdl:message>
+  <wsdl:message name="ICCliente_ListaClientes_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListaClientesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICCliente_AlterarCliente_InputMessage">
+    <wsdl:part name="parameters" element="tns:AlterarCliente" />
+  </wsdl:message>
+  <wsdl:message name="ICCliente_AlterarCliente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AlterarClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICCliente_SelecionarCliente_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelecionarCliente" />
+  </wsdl:message>
+  <wsdl:message name="ICCliente_SelecionarCliente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelecionarClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICCliente_ExcluirCliente_InputMessage">
+    <wsdl:part name="parameters" element="tns:ExcluirCliente" />
+  </wsdl:message>
+  <wsdl:message name="ICCliente_ExcluirCliente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ExcluirClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICCliente_IncluirCliente_InputMessage">
+    <wsdl:part name="parameters" element="tns:IncluirCliente" />
+  </wsdl:message>
+  <wsdl:message name="ICCliente_IncluirCliente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:IncluirClienteResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ICCliente">
+    <wsdl:operation name="ListaClientes">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICCliente/ListaClientes" message="tns:ICCliente_ListaClientes_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICCliente/ListaClientesResponse" message="tns:ICCliente_ListaClientes_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AlterarCliente">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICCliente/AlterarCliente" message="tns:ICCliente_AlterarCliente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICCliente/AlterarClienteResponse" message="tns:ICCliente_AlterarCliente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelecionarCliente">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICCliente/SelecionarCliente" message="tns:ICCliente_SelecionarCliente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICCliente/SelecionarClienteResponse" message="tns:ICCliente_SelecionarCliente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ExcluirCliente">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICCliente/ExcluirCliente" message="tns:ICCliente_ExcluirCliente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICCliente/ExcluirClienteResponse" message="tns:ICCliente_ExcluirCliente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="IncluirCliente">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICCliente/IncluirCliente" message="tns:ICCliente_IncluirCliente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICCliente/IncluirClienteResponse" message="tns:ICCliente_IncluirCliente_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ICCliente" type="tns:ICCliente">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ListaClientes">
+      <soap:operation soapAction="http://tempuri.org/ICCliente/ListaClientes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlterarCliente">
+      <soap:operation soapAction="http://tempuri.org/ICCliente/AlterarCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelecionarCliente">
+      <soap:operation soapAction="http://tempuri.org/ICCliente/SelecionarCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExcluirCliente">
+      <soap:operation soapAction="http://tempuri.org/ICCliente/ExcluirCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IncluirCliente">
+      <soap:operation soapAction="http://tempuri.org/ICCliente/IncluirCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CCliente">
+    <wsdl:port name="BasicHttpBinding_ICCliente" binding="tns:BasicHttpBinding_ICCliente">
+      <soap:address location="http://localhost:62720/CCliente.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

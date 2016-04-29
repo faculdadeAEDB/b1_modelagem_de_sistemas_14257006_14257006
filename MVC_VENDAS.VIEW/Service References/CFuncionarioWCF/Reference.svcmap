@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6d618475-72c7-4c30-a8c5-6695d2d1cd7e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:62720/CFuncionario.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CFuncionario.disco" MetadataType="Disco" ID="bf7f284d-8c7a-4bfe-80ea-4bf30723b97b" SourceId="1" SourceUrl="http://localhost:62720/CFuncionario.svc?disco" />
+    <MetadataFile FileName="CFuncionario.xsd" MetadataType="Schema" ID="ceceab52-2a8c-4b51-b9c0-db76b399dce3" SourceId="1" SourceUrl="http://localhost:62720/CFuncionario.svc?xsd=xsd1" />
+    <MetadataFile FileName="CFuncionario1.xsd" MetadataType="Schema" ID="08d9cd1c-e463-4949-902e-ac0a0d8f527a" SourceId="1" SourceUrl="http://localhost:62720/CFuncionario.svc?xsd=xsd2" />
+    <MetadataFile FileName="CFuncionario.wsdl" MetadataType="Wsdl" ID="61216bce-bc78-44df-b8d9-12818ae5ff46" SourceId="1" SourceUrl="http://localhost:62720/CFuncionario.svc?wsdl" />
+    <MetadataFile FileName="CFuncionario2.xsd" MetadataType="Schema" ID="48e34fd9-b7cb-4674-93b2-f6e9d2aa86f1" SourceId="1" SourceUrl="http://localhost:62720/CFuncionario.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

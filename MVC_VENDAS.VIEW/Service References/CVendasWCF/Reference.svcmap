@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6650ad44-abb1-4681-a0d8-75bbc21d4b1e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:62720/CVendas.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CVendas.xsd" MetadataType="Schema" ID="3bd02f88-56cb-4b1f-9d49-bc0c19ff4aac" SourceId="1" SourceUrl="http://localhost:62720/CVendas.svc?xsd=xsd0" />
+    <MetadataFile FileName="CVendas1.xsd" MetadataType="Schema" ID="d216c233-4c49-401f-8204-ad53da074402" SourceId="1" SourceUrl="http://localhost:62720/CVendas.svc?xsd=xsd2" />
+    <MetadataFile FileName="CVendas2.xsd" MetadataType="Schema" ID="0ed8705c-2bf1-4dc6-8b50-f472adbe5cbe" SourceId="1" SourceUrl="http://localhost:62720/CVendas.svc?xsd=xsd1" />
+    <MetadataFile FileName="CVendas.wsdl" MetadataType="Wsdl" ID="0a6a948c-9d45-41a7-9866-13e19f55fa51" SourceId="1" SourceUrl="http://localhost:62720/CVendas.svc?wsdl" />
+    <MetadataFile FileName="CVendas.disco" MetadataType="Disco" ID="a8997a86-618b-4a2e-b940-d3330565c449" SourceId="1" SourceUrl="http://localhost:62720/CVendas.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

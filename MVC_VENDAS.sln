@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_VENDAS.VIEW", "MVC_VENDAS.VIEW\MVC_VENDAS.VIEW.csproj", "{638D0C96-B392-473B-91D2-0CB3AB2162FA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F21E1F4F-386C-4813-972D-4F03F1E64B5F} = {F21E1F4F-386C-4813-972D-4F03F1E64B5F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_VENDAS.CONTROLLER", "MVC_VENDAS.CONTROLLER\MVC_VENDAS.CONTROLLER.csproj", "{8C106CEE-AA2B-437A-AB82-BF39921ACE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_VENDAS.MODEL", "MVC_VENDAS.MODEL\MVC_VENDAS.MODEL.csproj", "{0693813E-5D55-4C77-BD10-742D46A5634D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_VENDAS.SITE", "MVC_VENDAS.SITE\MVC_VENDAS.SITE.csproj", "{F21E1F4F-386C-4813-972D-4F03F1E64B5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{638D0C96-B392-473B-91D2-0CB3AB2162FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638D0C96-B392-473B-91D2-0CB3AB2162FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638D0C96-B392-473B-91D2-0CB3AB2162FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638D0C96-B392-473B-91D2-0CB3AB2162FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C106CEE-AA2B-437A-AB82-BF39921ACE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C106CEE-AA2B-437A-AB82-BF39921ACE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C106CEE-AA2B-437A-AB82-BF39921ACE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C106CEE-AA2B-437A-AB82-BF39921ACE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0693813E-5D55-4C77-BD10-742D46A5634D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0693813E-5D55-4C77-BD10-742D46A5634D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0693813E-5D55-4C77-BD10-742D46A5634D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0693813E-5D55-4C77-BD10-742D46A5634D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F21E1F4F-386C-4813-972D-4F03F1E64B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21E1F4F-386C-4813-972D-4F03F1E64B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21E1F4F-386C-4813-972D-4F03F1E64B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21E1F4F-386C-4813-972D-4F03F1E64B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
